@@ -1,3 +1,5 @@
+// ÁNGEL ORTIZ JIMÉNEZ
+// A01338658
 // Tarea1_suma_arreglos_paralela.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
